@@ -30,7 +30,7 @@ This is a simple Car Rental System project developed using C++ with Object-Orien
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vaishnavi-parodkar/Car-rental-system-using-cpp.git
+   git clone https://github.com/Vianka-Souza/Car-rental-system-using-cpp.git
 
 
 2. Open the solution file car rental.sln in Visual Studio.
